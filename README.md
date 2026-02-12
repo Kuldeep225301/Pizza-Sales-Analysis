@@ -5,7 +5,7 @@ and KPIs that will help management make informed decisions related to sales, mar
 
 # Business Objectives
 
-.Identify overall revenue, total pizzas sold, and total number of orders.
+. Identify overall revenue, total pizzas sold, and total number of orders.
 
 . Determine sales distribution by pizza category, size, and type.
 
