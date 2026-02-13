@@ -16,3 +16,17 @@ and KPIs that will help management make informed decisions related to sales, mar
 . Understand customer purchasing behaviour through Average Order Value (AOV) and Average Pizza per Order.
 
 . Provide visualization dashboards for effective decision-making.
+
+# Conclusion & Recommendations
+
+The analysis provides a comprehensive view of pizza sales performance. Management can 
+
+leverage these insights to: 
+
+• Focus marketing on high-performing categories. 
+
+• Optimize the menu by reconsidering least-selling pizzas.
+
+• Plan inventory and staffing based on sales peaks.
+
+• Monitor KPIs regularly through dashboards for continuous improvement.
